@@ -1,7 +1,7 @@
 {
   "name": "grunt-casperjs",
   "description": "With this grunt.js task you can run tests with CasperJS.",
-  "version": "2.1.0-2",
+  "version": "2.1.0-3",
   "homepage": "https://github.com/ronaldlokers/grunt-casperjs",
   "author": {
     "name": "Ronald Lokers",
@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "phantomjs": "^2.0.2",
-    "casperjs": "n1k0/casperjs"
+    "casperjs": "n1k0/casperjs.git#1.1-beta4"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.1.1",
